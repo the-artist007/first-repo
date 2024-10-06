@@ -13,6 +13,7 @@ public class Calculator implements ActionListener{
 	Boolean isOparetoclicked=false;
 //	String oldValue;
 //	String newValue;
+//	Test
 	
 	JFrame jf;
 	JLabel DisplayLabel;
