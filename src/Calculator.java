@@ -24,7 +24,7 @@ public class Calculator implements ActionListener{
 	
 	double newValue, oldValue;
 	int calculation;
-	
+	//
 	public Calculator(){
         jf=new JFrame("calculator");
         jf.setBounds(0, 0, 500, 550);
